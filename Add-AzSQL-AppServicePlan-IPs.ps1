@@ -35,7 +35,7 @@
 	PS> .\Add-AzSQL-AppServicePlan-IPs.ps1 -SqlServerName "SomeSqlServer" -SqlResourceGroup "SomeResourceGroup" -AppName "AppSvcName" -AppResourceGroup "AppSvcResourceGroup" -RemoveConflicts
 
 	.LINK
-	Online version: https://github.com/dliktorius
+	Online version: https://github.com/dliktorius/azure-powershell-scripts
 
 #>
 <#
